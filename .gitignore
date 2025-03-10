@@ -1,0 +1,10 @@
+# .gitignore
+
+# Ignore node_modules
+node_modules/
+
+# Ignore .env files
+.env
+
+# Ignore package-lock.json
+package-lock.json
